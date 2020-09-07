@@ -41,7 +41,7 @@ def game_hash
         :player_name => "Mason Plumlee",
         :number => 1,
         :shoe => 19,
-        :points => 26, 
+        :points => 26,
         :rebounds => 11,
         :assists => 6,
         :steals => 3,
@@ -49,9 +49,9 @@ def game_hash
         :slam_dunks => 5
         },
       {
-        :player_name => "Jason Terry", 
+        :player_name => "Jason Terry",
         :number => 31,
-        :shoe => 15, 
+        :shoe => 15,
         :points => 19,
         :rebounds => 2,
         :assists => 2,
@@ -64,7 +64,7 @@ def game_hash
       :team_name => "",
       :colors =>[""],
       :players => [{
-        
+
         }]
     }
   }
